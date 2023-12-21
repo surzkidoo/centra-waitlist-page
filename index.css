@@ -3,6 +3,8 @@
     margin: 0;
     box-sizing: border-box;
     font-family: poppins;
+    text-decoration: none;
+    
 }
 
 header{
@@ -73,6 +75,7 @@ header{
 .socail p {
     display: none;
     font-size: 14px;
+    color: #080066;
 }
 
 
@@ -190,7 +193,7 @@ header{
     }
 }
 
-@media only screen and (min-width: 900px) {
+@media only screen and (min-width: 992px) {
 
     *{
         padding: 0;
@@ -235,6 +238,8 @@ header{
     
     
     .link{
+        margin: 0;
+
         font-size: 15px !important;
         margin-bottom: -8px;
         color: #080066;
