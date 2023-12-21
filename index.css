@@ -39,6 +39,8 @@ header{
 .link{
     font-size: 14px !important;
     color: #080066;
+    margin-top: 16px;
+
 }
 
 
@@ -142,6 +144,7 @@ header{
 
 .join-btn{
     height: 50px;
+    width: 200px;
     border: none;
     outline: none;
     background: #080066;
@@ -157,6 +160,8 @@ header{
     border-radius: 10px;
     text-transform: capitalize;
     animation: btn 3s ease-in-out infinite;
+    margin-top: 16px;
+
 }
 
 
@@ -233,7 +238,6 @@ header{
         font-size: 15px !important;
         margin-bottom: -8px;
         color: #080066;
-        margin-top: 16px;
 
     }
     
