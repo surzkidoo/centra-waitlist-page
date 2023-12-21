@@ -28,7 +28,7 @@ header{
 
 .logo-container img{
     height: auto;
-    width: 30px;
+    width: 120px;
     align-self: flex-start;
 }
 
@@ -227,7 +227,7 @@ header{
     
     .logo-container img{
         height: auto;
-        width: 50px;
+        width: 300px;
         align-self: flex-start;
     }
     
