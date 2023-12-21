@@ -1,8 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@400;500;600;700&display=swap');
+
+
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: poppins;
+    font-family: 'Mitr', sans-serif;
     text-decoration: none;
     
 }
@@ -82,8 +86,6 @@ header{
 .socail img{
     height: 35px;
     width: 35px;
-    background-color: wheat;
-    padding: 8px;
     flex-shrink: 0;
     border-radius: 8px;
 
@@ -137,6 +139,7 @@ header{
     font-size: 35px;
     text-transform: capitalize;
     color: #080066;
+    font-weight: 600;
 }
 
 .hero-main-content p {
@@ -199,7 +202,6 @@ header{
         padding: 0;
         margin: 0;
         box-sizing: border-box;
-        font-family: poppins;
     }
     .sc-mobile{
         display: none !important;
@@ -258,8 +260,7 @@ header{
     .socail{
         display: flex;
         gap: 8px;
-        padding: 8px;
-        height: 30px;
+            height: 30px;
         border-radius: 10px;
         align-items: center;
         border: none;
